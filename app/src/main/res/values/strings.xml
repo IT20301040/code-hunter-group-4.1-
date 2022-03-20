@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CommentSection</string>
+    <string name="kottuwa">kottuwa</string>
+    <string name="mymail">mymail</string>
+    <string name="comment">comment</string>
+    <string name="change">change</string>
+    <string name="delete">delete</string>
+    <string name="othermail">othermail</string>
+    <string name="comment1">comment1</string>
+    <string name="add">add</string>
+    <string name="home_bt">home_bt</string>
+    <string name="cart_bt">cart_bt</string>
+    <string name="deliver_bt">deliver_bt</string>
+    <string name="rate_bt">rate_bt</string>
+    <string name="profile_bt">profile_bt</string>
+
+</resources>
